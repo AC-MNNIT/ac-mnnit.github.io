@@ -1,6 +1,6 @@
 ## Welcome to Application Club
 
-MNNIT Application Club is the official club of MCA at Motilal Nehru National Institute Of Technology, Allahabad ,Prayagraj. Application club aimed at guiding the students for internships and placements.
+MNNIT Application Club is the official club of MCA at Motilal Nehru National Institute Of Technology, Allahabad ,Prayagraj. Application club aims at guiding the students for internships and placements.
 
 ### Application Club Members
 
