@@ -17,6 +17,6 @@ MNNIT Application Club is the official club of MCA at Motilal Nehru National Ins
 - Vaishnavi Sharma
 
 ### Contact
-Official Mail Id: applicationclub.mnnit@gmail.com
+Official Mail Id:  [<strong>applicationclub.mnnit@gmail.com</strong>](mailto:applicationclub.mnnit@gmail.com)
 
 
