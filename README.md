@@ -4,17 +4,17 @@ MNNIT Application Club is the official club of MCA at Motilal Nehru National Ins
 
 ### Application Club Members
 
-- Anubhav Goel
-- Archit Keshri
-- Asmit Mohan
-- Md. Nurul Islam
-- Neeraj Joshi
-- Ojasvi Gupta
-- Prakhar Gupta
-- Rekha
-- Shanawaz Ali
-- Umang Aggarwal
-- Vaishnavi Sharma
+* [Anubhav](https://github.com/AnubhavGoel2808)
+* [Archit](https://github.com/architkeshri)
+* [Asmit Mohan](https://github.com/Asmit-Mohan)
+* [Md Nurul Islam](https://github.com/)
+* [Neeraj](https://github.com/Neeraj-2307)
+* [Ojasvi](https://github.com/coder-oj)
+* [Prakhar](https://github.com/Prakhar1106)
+* [Rekha](https://github.com/Rekha-Pal)
+* [Shanawaz](https://github.com/shanawaz28)
+* [Umang](https://github.com/Umang-19)
+* [Vaishnavi](https://github.com/Vaishnavi-101)
 
 ### Contact
 Official Mail Id:  [<strong>applicationclub.mnnit@gmail.com</strong>](mailto:applicationclub.mnnit@gmail.com)
